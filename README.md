@@ -18,6 +18,7 @@ Feel free to use it for personal or commercial projects.
 ## Repository Structure
 
 - `XF_Nstf.sfdir/`: FontForge source directories (`.sfd`)
+- `fonts/`: Compiled font files (`.otf`, `.ttf`, `.woff2`)
 
 ## Development / Building from Source
 
