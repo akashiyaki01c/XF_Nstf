@@ -18,3 +18,12 @@ Feel free to use it for personal or commercial projects.
 ## Repository Structure
 
 - `XF_Nstf.sfdir/`: FontForge source directories (`.sfd`)
+
+## Development / Building from Source
+
+Requires [FontForge](https://fontforge.org/) installed on your system.
+
+```bash
+# Generate .otf, .ttf, and .woff2 into fonts/ directory
+bash build.sh
+```
