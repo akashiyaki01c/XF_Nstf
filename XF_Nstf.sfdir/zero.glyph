@@ -1,5 +1,5 @@
 StartChar: zero
-Encoding: 48 48 256
+Encoding: 48 48 0
 Width: 512
 VWidth: 972
 Flags: HW
