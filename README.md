@@ -6,9 +6,10 @@ This font is a compact font inspired by train schedule carring train crews.
 
 ## Included glyphs
 
-This font only included 38 glyphs.
-
-`0123456789:=ABCDEFGHIJKLMNOPQRSTUVWXYZ`
+This font only included 94 glyphs (ASCII range).
+```
+ !"$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+```
 
 ## License
 
